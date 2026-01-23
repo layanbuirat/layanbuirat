@@ -177,19 +177,6 @@
 
 ---
 
-## 📝 **Resume & Cover Letters**
-
-### **📄 Resume/CV**
-- **BI & Analytics CV:** [Download PDF](Layan_Buiart_CV_BI_Analytics_Ooredoo.pdf)
-- **General CV:** [Download PDF](LayanBuirat_UBS.pdf)
-- **Full AI CV:** [Download PDF](data_full_AI.pdf)
-- **Complete CV:** [Download PDF](all.pdf)
-
-### **✉️ Cover Letters**
-- **UBS Application:** [Download PDF](Cover_Letter_UBS_Layan_Buirat_.pdf)
-
----
-
 ## 📬 **Contact Information**
 
 ### **📍 Location**
