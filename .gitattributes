@@ -1,0 +1,7 @@
+*.md linguist-language=Markdown
+*.html linguist-language=HTML
+*.css linguist-language=CSS
+*.js linguist-language=JavaScript
+*.py linguist-language=Python
+*.cs linguist-language=C#
+*.java linguist-language=Java
