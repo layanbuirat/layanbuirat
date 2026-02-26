@@ -92,11 +92,11 @@
 <h2 align="center">🏆 Project Highlights</h2>
 
 - 📊 **5+ Data Analytics Projects** including Azure AI pipelines & SQL databases
-- 🚀 **10+ Full-Stack Applications** built with ASP.NET, React, and Node.js
-- 🤖 **AI Capstone Project** - MealLense: AI-powered meal recognition app
-- 📱 **3 Mobile Applications** including FinTrack finance manager
+- 🚀 **4+ Full-Stack Applications** built with ASP.NET, React, and Node.js
+- 🤖 **AI Capstone Project** - MealLense: AI-powered meal recognition app use Azure custom vision & Academic assistant project by ASAL Company use Azure platform 
+- 📱 **2 Mobile Applications** including FinTrack finance manager
 - 🎨 **6+ Responsive Websites** with modern UI/UX design
-
+-  **Arabic-Question-Answering-based-on-LLM** of NLP course 
 ---
 ## 📈 Activity & Radar Chart
 
@@ -582,7 +582,6 @@
 
 <div align="center">
   
-**Last Updated:** January 2025  
 **Profile Views:** ![Visitor Count](https://komarev.com/ghpvc/?username=layanbuiart&color=green)
 
 </div>
