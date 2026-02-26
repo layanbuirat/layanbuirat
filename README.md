@@ -299,10 +299,6 @@
       <img src="https://skillicons.dev/icons?i=bash" width="50"/><br>
       <sub><b>Bash</b></sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/color/48/kobo.png" width="50"/><br>
-      <sub><b>Kobo Toolbox</b></sub>
-    </td>
   </tr>
 </table>
 
