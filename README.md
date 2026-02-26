@@ -79,21 +79,7 @@
 - 📱 **2 Mobile Applications** including FinTrack finance manager
 - 🎨 **6+ Responsive Websites** with modern UI/UX design
 -  **Arabic-Question-Answering-based-on-LLM** of NLP course 
----
-## 📈 Activity & Radar Chart
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=layanbuiart&theme=tokyonight" />
-</p>
-
----
-
-## 🥧 Languages & Contributions Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=layanbuiart&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=layanbuiart&theme=github_dark" />
-</p>
 
 ---
 ## 🚀 About Me
