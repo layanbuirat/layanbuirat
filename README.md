@@ -26,7 +26,7 @@
 
 ---
 <h3 align="center">
-    BI & Analytics Engineer | Full-Stack Developer | Data Specialist | AI Enthusiast | Frontend Developer | Backend Developer
+    FullStack & Analytics Engineer | Full-Stack Developer | Data Specialist | AI Enthusiast | Frontend Developer | Backend Developer
 </h3>
 
 ---
@@ -71,9 +71,7 @@
   <a href="mailto:mlayan774@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="50" />
   </a>
-  <a href="https://layanbuiart.github.io" target="_blank">
-    <img src="https://img.icons8.com/color/48/domain.png" height="50" />
-  </a>
+ 
 
 </div>
 
