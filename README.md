@@ -2,8 +2,6 @@
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=BI+%26+Analytics+Engineer;Full-Stack+Developer;Data+Specialist;AI+Enthusiast;Building+Data-Driven+Solutions" /> 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"/>
-
 </p>
 
 <p align="center">
