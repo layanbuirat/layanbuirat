@@ -400,7 +400,7 @@
 - Data validation and secure API endpoints
 - SQL Server database integration
 - **Technologies:** ASP.NET Core, SQL Server
-- 🔗 [Live Demo](https://deptempmanager-api.onrender.com) | [GitHub](https://github.com/layanbuirat/DeptEmpManager-API)
+- [GitHub](https://github.com/layanbuirat/DeptEmpManager-API)
 
 ---
 
@@ -447,7 +447,7 @@
 <table align="center">
   <tr>
     <td width="200"><b>ASAL Technologies</b></td>
-    <td><b>AI Development Internship</b> (Jan 2025 - Present)</td>
+    <td><b>AI Development Internship</b> (Jun 2025 - Sep 2025)</td>
   </tr>
   <tr>
     <td colspan="2">
@@ -459,7 +459,7 @@
   
   <tr>
     <td width="200"><b>GridAPP</b></td>
-    <td><b>Frontend Development Internship</b> (2025-2026)</td>
+    <td><b>Frontend Development Internship</b> (March 2025- July 2025)</td>
   </tr>
   <tr>
     <td colspan="2">
@@ -471,7 +471,7 @@
   
   <tr>
     <td width="200"><b>Knowledge Academy</b></td>
-    <td><b>Full-Stack Development Training</b> (2025-2026)</td>
+    <td><b>Full-Stack Development Training</b> (July 2024-Dec 2025)</td>
   </tr>
   <tr>
     <td colspan="2">
