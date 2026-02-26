@@ -22,7 +22,7 @@
 
 ---
 <h3 align="center">
-    FullStack & Analytics Engineer | Full-Stack Developer | Data Specialist | AI Enthusiast | Frontend Developer | Backend Developer
+    computer engineering AI specification | Full-Stack Developer | Data Specialist | AI Enthusiast | Azure platform | Backend Developer | Analytics Engineer
 </h3>
 
 ---
