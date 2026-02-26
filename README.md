@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://storylab.ai/wp-content/uploads/2024/05/Benefits-of-AI-Powered-Text-to-Image-Generator-1200x675.png" />
+  <img src="https://raw.githubusercontent.com/layanbuiart/layanbuiart/main/assets/your-image-name.png" alt="AI Banner" />
 </p>
 
 <p align="center">
