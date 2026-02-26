@@ -1,7 +1,7 @@
 # 👨‍💻 Layan Buiart | Computer Engineering Graduate | AI Specialization
 
 <p align="center">
-  <img src="https://storylab.ai/wp-content/uploads/2024/05/Benefits-of-AI-Powered-Text-to-Image-Generator-1200x675.png" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=BI+%26+Analytics+Engineer;Full-Stack+Developer;Data+Specialist;AI+Enthusiast;Building+Data-Driven+Solutions" /> 
 </p>
 
 <p align="center">
