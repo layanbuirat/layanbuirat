@@ -360,7 +360,6 @@
 - Multi-database system (Firestore NoSQL + Cloud Storage)
 - Integrated Spoonacular API for recipe recommendations
 - **Technologies:** Flutter, Firebase, Azure AI, REST APIs
-- 📅 **Defense:** February 16, 2026
 
 ### 📚 **Library Management System (LMS)**
 **Full-featured system with comprehensive data management**
