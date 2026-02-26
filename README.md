@@ -62,10 +62,10 @@
 <h2 align="center"> 🌐 Connect with Me </h2>
 
 <div align="center">
-  <a href="https://github.com/layanbuiart" target="_blank">
+  <a href="https://github.com/layanbuirat?tab=repositories" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="50" />
   </a>
-  <a href="https://linkedin.com/in/layanbuiart" target="_blank">
+  <a href="https://www.linkedin.com/in/%D9%84%D9%8A%D8%A7%D9%86-%D8%A8%D8%B9%D9%8A%D8%B1%D8%A7%D8%AA-50a186274/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
   <a href="mailto:mlayan774@gmail.com">
@@ -74,12 +74,7 @@
   <a href="https://layanbuiart.github.io" target="_blank">
     <img src="https://img.icons8.com/color/48/domain.png" height="50" />
   </a>
-  <a href="tel:+972598214350">
-    <img src="https://img.icons8.com/color/48/phone.png" height="50" />
-  </a>
-  <a href="https://www.google.com/maps/search/?api=1&query=Ramallah,Palestine" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/navigation.png" height="50" />
-  </a>
+
 </div>
 
 ---
