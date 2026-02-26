@@ -50,7 +50,7 @@
 
 <h2 align="center"> 🔥 Contribution Graph </h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=layanbuiart&theme=chartreuse-dark" />
+  <img src="https://camo.githubusercontent.com/3e9289153217b029eef8bdd65bc5fc00fa81989f4b593af4d82e78ab2b9086af/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d5361694e697468696e383332267468656d653d636861727472657573652d6461726b" />
 </p>
 
 ---
