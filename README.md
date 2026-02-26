@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=layanbuiart&show_icons=true&theme=tokyonight" />
+  <img src="https://storylab.ai/wp-content/uploads/2024/05/Benefits-of-AI-Powered-Text-to-Image-Generator-1200x675.png" />
 </p>
 
 <p align="center">
