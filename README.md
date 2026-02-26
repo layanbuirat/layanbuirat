@@ -70,24 +70,6 @@
  
 
 </div>
-
----
-
-<h2 align="center">🔥 Contribution Streak</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=layanbuiart&theme=dracula" />
-</p>
-
----
-
-<h2 align="center"> 📊 GitHub Stats </h2>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=layanbuiart&theme=dracula" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=layanbuiart&theme=nightowl" width="49%"/>
-</p>
-
 ---
 <h2 align="center">🏆 Project Highlights</h2>
 
