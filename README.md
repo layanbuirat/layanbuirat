@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://www.bing.com/images/search?view=detailV2&ccid=vn3jHByQ&id=4D78899B3F5B0E3C6BB7CFB62A973075A4208B96&thid=OIP.vn3jHByQd0GDGW2jNN4eYwHaEK&mediaurl=https%3A%2F%2Fstorylab.ai%2Fwp-content%2Fuploads%2F2024%2F05%2FBenefits-of-AI-Powered-Text-to-Image-Generator-1200x675.png&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.be7de31c1c90774183196da334de1e63%3Frik%3DlosgpHUwlyq2zw%26pid%3DImgRaw%26r%3D0&exph=675&expw=1200&q=ai+image+generator&form=IRPRST&ck=1AD076729A6EEC8813D606E858363B7A&selectedindex=39&itb=0&cw=1526&ch=706&ajaxhist=0&ajaxserp=0&vt=0&sim=11" alt="AI Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"/>
 </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"/>
