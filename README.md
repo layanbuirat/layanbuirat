@@ -351,7 +351,8 @@
 - Built ETL pipeline for data extraction and structuring
 - Implemented validation and quality assurance checks
 - Integrated with database systems for analytics-ready storage
-- **Technologies:** Azure AI, Python, SQL Server
+- **Technologies:** Azure AI, Python
+- [GitHub work Team In ASAL Company](https://github.com/layanbuirat/academic-assistant-ai)
 - 🔗 [GitHub Repository](https://github.com/layanbuirat/Azure-Document-Intelligence-Azure-AI-Language-OpenAI-Processing-Workflow)
 
 ### 🍽️ **MealLense - AI Capstone Project**
