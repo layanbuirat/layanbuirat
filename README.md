@@ -353,7 +353,7 @@
 - Integrated with database systems for analytics-ready storage
 - **Technologies:** Azure AI, Python
 - [GitHub work Team In ASAL Company](https://github.com/layanbuirat/academic-assistant-ai)
-- 🔗 [GitHub Repository](https://github.com/layanbuirat/Azure-Document-Intelligence-Azure-AI-Language-OpenAI-Processing-Workflow)
+- 🔗 [GitHub Repository of work fllow Team Structure](https://github.com/layanbuirat/Azure-Document-Intelligence-Azure-AI-Language-OpenAI-Processing-Workflow)
 
 ### 🍽️ **MealLense - AI Capstone Project**
 **AI-powered cross-platform meal recognition application**
