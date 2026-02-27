@@ -315,12 +315,20 @@
 - [GitHub work Team In ASAL Company](https://github.com/layanbuirat/academic-assistant-ai)
 - 🔗 [GitHub Repository of work fllow Team Structure](https://github.com/layanbuirat/Azure-Document-Intelligence-Azure-AI-Language-OpenAI-Processing-Workflow)
 
-### 🍽️ **MealLense - AI Capstone Project**
+### 📱 **MealLense Mobil app  - AI Graduation Project **
 **AI-powered cross-platform meal recognition application**
 - Azure Custom Vision for image-based food classification
 - Multi-database system (Firestore NoSQL + Cloud Storage)
 - Integrated Spoonacular API for recipe recommendations
 - **Technologies:** Flutter, Firebase, Azure AI, REST APIs
+- - [GitHub of explaine features in Mobile app with demos & images ](https://github.com/layanbuirat/Graduation-Project-MealLense-Mobile-App-with-Website-Development-FAQ-Message-management-)
+
+### 📱 **MealLense Website by Html,CSS & JS push to Render**
+- Multi-database system (Firestore NoSQL + Cloud Storage)
+- user can know more about MealLense app,  know more about Team, contact with Admin by send message & can ask quastion in FAQ page
+- Admin can management messages from users, read unread messages, reply to user email 📧 & can management FAQ delete or add FAQ (Arabic or English) 
+- Integrated link : [Website MealLense ](https://meallense-website-help.onrender.com) in MealLense mobile app
+
 
 ### 📚 **Library Management System (LMS)**
 **Full-featured system with comprehensive data management**
